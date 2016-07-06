@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DaggerConversionDemo_Start</string>
+
+    <string name="text_waiting">Waiting for data...</string>
+    <string name="text_image_source">Image Source:</string>
+    <string name="text_on_mouse_up">On mouse up:</string>
+
+</resources>
